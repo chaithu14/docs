@@ -19,7 +19,13 @@ pages:
             - Monitoring with dtManage: tutorials/topnwords-c4.md
             - Visualizing with dtDashboard: tutorials/topnwords-c5.md
             - Appendix: tutorials/topnwords-c6.md
-        - Sales Dimensions: tutorials/sales_dimensions.md
+        - Sales Dimensions:
+            - Introduction: tutorials/salesdemo-c1.md
+            - Development Environment: tutorials/salesdemo-c2.md
+            - Building in Java: tutorials/salesdemo-c3.md
+            - Building with dtAssemble: tutorials/salesdemo-c4.md
+            - Visualizing with dtDashboard: tutorials/salesdemo-c5.md
+            - Monitoring with dtManage: tutorials/salesdemo-c6.md
     - Apex Development Setup: apex_development_setup.md
     - Applications: application_development.md
     - Application Packages: application_packages.md
